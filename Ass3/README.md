@@ -43,22 +43,6 @@ Endpoints
 /protected?token=<token>
 ```
 
-## Examples
-
-### Login examples
-Succesful log in example
-![Login](/Assignment3/assets/1.png)
-
-Wrong password/login example
-![WrongPass](/Assignment3/assets/WrongPass.png)
-Response
-![PassResponse](/Assignment3/assets/wrongPassResponse.png)
-
-### Protected examples
-Correct Token
-![Correct](/Assignment3/assets/correct.png)
-Wrong Token
-![WrongToken](/Assignment3/assets/wrongtoken.png)
 
 
 ## License
